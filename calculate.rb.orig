@@ -1,0 +1,11 @@
+class Caclulate
+  def addition(a, b)
+<<<<<<< HEAD
+    puts "addition = "
+    (a + b)
+=======
+     puts "Please see addition of a and b"
+     (a + b)
+>>>>>>> e0d319ec8c23017c91d48581ee13dc7ccf548855
+  end
+end
