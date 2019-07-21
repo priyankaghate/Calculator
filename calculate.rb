@@ -1,5 +1,6 @@
 class Caclulate
   def addition(a, b)
-     (a + b)
+    puts "addition = "
+    (a + b)
   end
 end
